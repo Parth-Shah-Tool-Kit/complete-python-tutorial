@@ -2,10 +2,4 @@
 
 All files used in this tutorial
 
-Youtube link:
-part1: https://youtu.be/FyKcuyHg5_U
-part2: https://youtu.be/RMnmWmYCMyI
-part3:
-part4:
-part5:
-part6:
+Youtube link:https://www.youtube.com/playlist?list=PLaVeOmHCgO13xzq4P--E4qmnkvuiQWkwZ
